@@ -3,7 +3,7 @@
 # Simple Blog
 
 
-This is an blog page project built using Laravel 10 framework and Tailwind CSS.
+This is an Social Publishing Platform project built using Laravel 10 framework and Tailwind CSS.
 
 ## Features
 
@@ -32,7 +32,7 @@ This is an blog page project built using Laravel 10 framework and Tailwind CSS.
 
 
 - Responsive Design:
-    - The blog is fully responsive and works on desktop and mobile screens.
+    - The platform is fully responsive and works on desktop and mobile screens.
 
 ## Prerequisites
 - PHP 8.2
