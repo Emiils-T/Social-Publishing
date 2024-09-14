@@ -38,6 +38,7 @@ This is an blog page project built using Laravel 10 framework and Tailwind CSS.
 - PHP 8.2
 - Composer
 - NPM
+- SQLite
 ## 🚀 Getting started
 
 Clone the project
