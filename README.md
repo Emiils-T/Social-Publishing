@@ -16,6 +16,8 @@ This is an blog page project built using Laravel 10 framework and Tailwind CSS.
     - Users can create, edit, and delete their own posts.
     - Posts can be assigned to multiple categories.
     ![Post Creation](/public/images/readme/post-creation.gif)
+
+    - Post editing
     ![Post Editing](/public/images/readme/post-edit.gif)
 
 - Comment System:
